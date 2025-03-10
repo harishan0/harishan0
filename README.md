@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harishan Ganeshanathan</h1>
-<h3 align="center">A software developer passionate about Data Science and Machine Learning</h3>
+<h3 align="center">A software engineer passionate about Data Science and Machine Learning</h3>
 
-- 🔭 I’m currently working on a [Brain Tumor Image Classifier Application](https://github.com/harishan0/Brain-Tumor-Classifier)
+- 🔭 I’m currently working on [NetMorph](https://github.com/harishan0/NetMorph), a fullstack application that allows users to create customized neural networks, using only Python and NumPy
 
-- 🌱 I’m currently learning **PyTorch, Next.js and TypeScript**
+- 🌱 I’m currently learning more about **LLMs, Reinforcement Learning and AI Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harishan0](https://github.com/harishan0)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harishan.g05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lgypuljlEbR3q8YBmKlCfM7-RfZUbNbh/view?usp=sharing](https://drive.google.com/file/d/1lgypuljlEbR3q8YBmKlCfM7-RfZUbNbh/view?usp=sharing)
+- 📄 Know about my experiences: [See Resume Here!](https://drive.google.com/file/d/1ompsuBodprZov3sD5NTIwiQULpc65Wd_/view?usp=sharing)
 
 - ⚡ Fun fact **I love to sleep yet I never get enough sleep at night.**
 
